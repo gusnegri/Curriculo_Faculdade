@@ -1,0 +1,55 @@
+#name {
+    background-color: #5d6a8f;
+    display: flex;
+}
+
+.nome {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.eu {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    margin-top: 5rem;
+    margin-left: -22rem;
+}
+
+img {
+    margin: 20px;
+}
+
+#obj {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#exp {
+    background-color: #5d6a8f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+#academic {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#cursos {
+    background-color: #5d6a8f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+h3 {
+    margin: 20px;
+    padding-top: 15px;
+}
+
+p {
+    margin: 20px;
+    padding-bottom: 15px;
+}
+
+h4 {
+    margin: 20px
+}
+
